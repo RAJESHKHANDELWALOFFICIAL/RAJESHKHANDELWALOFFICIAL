@@ -1,16 +1,13 @@
-## Hi there 👋
+# RAJESHKHANDELWALOFFICIAL AI System
 
-<!--
-**RAJESHKHANDELWALOFFICIAL/RAJESHKHANDELWALOFFICIAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains the setup for an AI-powered content generation app.
 
-Here are some ideas to get you started:
+### Technologies Used
+- Flask
+- Transformers
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Run the App
+1. Clone the repository
+2. Install dependencies
+3. Run the app with `python app.py`
