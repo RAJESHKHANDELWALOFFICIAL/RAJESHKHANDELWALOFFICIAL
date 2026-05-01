@@ -1,5 +1,0 @@
-flask
-transformers
-requests
-torch==2.5.1      ✅ (Vercel-supported version)
-numpy<2
